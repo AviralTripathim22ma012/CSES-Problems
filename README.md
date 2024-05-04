@@ -8,8 +8,6 @@ Welcome to my repository of solutions to problems from the [CSES Problem Set](ht
 
 ## Contents
 
-The repository is organized into folders, each representing a different category of problems. Here's a brief overview:
-
 Basic problems to get started with competitive programming.
 
 ## Contribution
